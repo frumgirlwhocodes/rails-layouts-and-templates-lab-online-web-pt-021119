@@ -11,4 +11,3 @@ class StoreAdminController < ApplicationController
     render :layout => false
 
   end
-end
